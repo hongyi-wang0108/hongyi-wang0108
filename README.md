@@ -64,3 +64,5 @@ https://github.com/hongyi-wang0108/eijyo_tracker
 I am looking for Android engineer roles in Japan where I can contribute to long-term service development, product quality, app stability, and user experience.
 
 日本のサービス開発に長期的に携わり、Android アプリの品質、安定性、保守性、ユーザー体験の向上に貢献したいと考えています。
+
+<!-- Profile README -->
