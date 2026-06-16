@@ -64,7 +64,11 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hongyi-wang0108&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs" />
   <br/>
   <img align="left" width="135" src="assets/wing-left.png" alt="wing" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hongyi-wang0108&theme=tokyonight&hide_border=true" alt="streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=hongyi-wang0108&background=00000000&hide_border=true&stroke=FF8FB1&ring=FF8FB1&fire=FF8FB1&currStreakLabel=FF8FB1&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=DDDDDD&dates=AAAAAA" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=hongyi-wang0108&background=00000000&hide_border=true&stroke=E84A8A&ring=E84A8A&fire=E84A8A&currStreakLabel=E84A8A&currStreakNum=333333&sideNums=333333&sideLabels=555555&dates=888888" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hongyi-wang0108&background=00000000&hide_border=true&stroke=E84A8A&ring=E84A8A&fire=E84A8A&currStreakLabel=E84A8A" alt="streak" />
+  </picture>
   <img align="right" width="135" src="assets/wing-right.png" alt="wing" />
   <br/>
   <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=hongyi-wang0108&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" />
