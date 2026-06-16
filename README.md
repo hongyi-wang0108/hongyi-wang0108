@@ -26,7 +26,29 @@
 ## 🛠 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,gradle,python,ts,git,github,figma,vscode" alt="skills" />
+
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=fff&style=flat)
+![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=fff&style=flat)
+![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=fff&style=flat)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?logo=jetpackcompose&logoColor=fff&style=flat)
+![Material 3](https://img.shields.io/badge/Material%203-757575?logo=materialdesign&logoColor=fff&style=flat)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?logo=gradle&logoColor=fff&style=flat)
+
+![Hilt](https://img.shields.io/badge/Hilt-2196F3?logo=android&logoColor=fff&style=flat)
+![Room](https://img.shields.io/badge/Room-FF6F00?logo=sqlite&logoColor=fff&style=flat)
+![Coroutines](https://img.shields.io/badge/Coroutines-7F52FF?logo=kotlin&logoColor=fff&style=flat)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?logo=junit5&logoColor=fff&style=flat)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)
+
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=fff&style=flat)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?logo=androidstudio&logoColor=fff&style=flat)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=flat)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)
+
+![LISP](https://img.shields.io/badge/LISP-Lots%20of%20Infuriating%20Superfluous%20Parentheses-CC342D?logo=commonlisp&logoColor=fff&style=flat)
+
 </div>
 
 - **Android**: Kotlin, Java, Android SDK, Jetpack Compose, Material 3
