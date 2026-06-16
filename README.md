@@ -1,17 +1,15 @@
-<h1 align="center">Hi, I'm 王泓懿 👋</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=620&lines=Android+Client+Engineer+%40+Tokyo;Kotlin+%2B+Jetpack+Compose;%E6%9D%B1%E4%BA%AC%E5%9C%A8%E4%BD%8F%E3%81%AE+Android+%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2" alt="Typing SVG" />
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2980,100:26d0ce&height=180&section=header&text=Hongyi%20Wang%20%E7%8E%8B%E6%B3%93%E6%87%BF&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Android%20Client%20Engineer%20%40%20Tokyo&descSize=18&descAlignY=64" alt="header" />
 
-<p align="center">
-  <a href="https://android-engineer-portfolio-kappa.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=hongyi-wang0108&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="views" />
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=620&color=26D0CE&lines=Android+Client+Engineer+%40+Tokyo;Kotlin+%2B+Jetpack+Compose;%E6%9D%B1%E4%BA%AC%E5%9C%A8%E4%BD%8F%E3%81%AE+Android+%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2)](https://github.com/hongyi-wang0108)
 
----
+<a href="https://android-engineer-portfolio-kappa.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>&emsp;
+<a href="mailto:1092576787@qq.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&emsp;
+<img src="https://img.shields.io/badge/Tokyo-Japan-26d0ce?style=for-the-badge&logo=googlemaps&logoColor=white" />&emsp;
+<img src="https://komarev.com/ghpvc/?username=hongyi-wang0108&label=Views&color=26d0ce&style=for-the-badge" alt="views" />
+
+</div>
 
 ## 🧑‍💻 About Me
 
@@ -27,9 +25,9 @@
 
 ## 🛠 Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,gradle,python,ts,git,github,figma" alt="skills" />
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,gradle,python,ts,git,github,figma,vscode" alt="skills" />
+</div>
 
 - **Android**: Kotlin, Java, Android SDK, Jetpack Compose, Material 3
 - **Architecture**: MVVM, ViewModel, StateFlow, Repository
@@ -39,14 +37,20 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=hongyi-wang0108&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true" alt="stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hongyi-wang0108&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs" />
-</p>
-
-<p align="center">
+  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hongyi-wang0108&theme=tokyonight&hide_border=true" alt="streak" />
-</p>
+  <br/>
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=hongyi-wang0108&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" />
+</div>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img alt="snake" src="https://raw.githubusercontent.com/hongyi-wang0108/hongyi-wang0108/output/github-contribution-grid-snake-dark.svg" />
+</div>
 
 ## 📌 Featured Project
 
@@ -73,3 +77,7 @@
 日本のサービス開発に長期的に携わり、Android アプリの品質・安定性・保守性・ユーザー体験の向上に貢献したいと考えています。
 
 *Looking for Android engineer roles in Japan.*
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:26d0ce,100:1a2980&height=120&section=footer" alt="footer" />
+</div>
