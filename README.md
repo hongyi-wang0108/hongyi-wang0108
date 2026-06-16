@@ -40,7 +40,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hongyi-wang0108&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hongyi-wang0108&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true" alt="stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hongyi-wang0108&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs" />
 </p>
 
@@ -73,9 +73,3 @@
 日本のサービス開発に長期的に携わり、Android アプリの品質・安定性・保守性・ユーザー体験の向上に貢献したいと考えています。
 
 *Looking for Android engineer roles in Japan.*
-
----
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hongyi-wang0108&theme=tokyonight&no-frame=true&column=7&margin-w=4" alt="trophies" />
-</p>
