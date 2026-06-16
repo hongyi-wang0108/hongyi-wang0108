@@ -1,13 +1,13 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2980,100:26d0ce&height=180&section=header&text=Hongyi%20Wang%20%E7%8E%8B%E6%B3%93%E6%87%BF&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Android%20Client%20Engineer%20%40%20Tokyo&descSize=18&descAlignY=64" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC0DD,100:E84A8A&height=180&section=header&text=Hongyi%20Wang%20%E7%8E%8B%E6%B3%93%E6%87%BF&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Android%20Client%20Engineer%20%40%20Tokyo&descSize=18&descAlignY=64" alt="header" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=620&color=26D0CE&lines=Android+Client+Engineer+%40+Tokyo;Kotlin+%2B+Jetpack+Compose;%E6%9D%B1%E4%BA%AC%E5%9C%A8%E4%BD%8F%E3%81%AE+Android+%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2)](https://github.com/hongyi-wang0108)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=620&color=E84A8A&lines=Android+Client+Engineer+%40+Tokyo;Kotlin+%2B+Jetpack+Compose;%E6%9D%B1%E4%BA%AC%E5%9C%A8%E4%BD%8F%E3%81%AE+Android+%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2)](https://github.com/hongyi-wang0108)
 
 <a href="https://android-engineer-portfolio-kappa.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>&emsp;
 <a href="mailto:1092576787@qq.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&emsp;
-<img src="https://img.shields.io/badge/Tokyo-Japan-26d0ce?style=for-the-badge&logo=googlemaps&logoColor=white" />&emsp;
-<img src="https://komarev.com/ghpvc/?username=hongyi-wang0108&label=Views&color=26d0ce&style=for-the-badge" alt="views" />
+<img src="https://img.shields.io/badge/Tokyo-Japan-E84A8A?style=for-the-badge&logo=googlemaps&logoColor=white" />&emsp;
+<img src="https://komarev.com/ghpvc/?username=hongyi-wang0108&label=Views&color=E84A8A&style=for-the-badge" alt="views" />
 
 </div>
 
@@ -60,8 +60,14 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hongyi-wang0108&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hongyi-wang0108&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=hongyi-wang0108&show_icons=true&hide_border=true&hide_rank=true&bg_color=00000000&title_color=FF8FB1&icon_color=FF8FB1&text_color=DDDDDD" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=hongyi-wang0108&show_icons=true&hide_border=true&hide_rank=true&bg_color=00000000&title_color=E84A8A&icon_color=E84A8A&text_color=444444" alt="stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hongyi-wang0108&layout=compact&hide_border=true&langs_count=8&bg_color=00000000&title_color=FF8FB1&text_color=DDDDDD" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hongyi-wang0108&layout=compact&hide_border=true&langs_count=8&bg_color=00000000&title_color=E84A8A&text_color=444444" alt="top langs" />
+  </picture>
   <br/>
   <img align="left" width="135" src="assets/wing-left.png" alt="wing" />
   <picture>
@@ -71,7 +77,10 @@
   </picture>
   <img align="right" width="135" src="assets/wing-right.png" alt="wing" />
   <br/>
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=hongyi-wang0108&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=hongyi-wang0108&hide_border=true&area=true&bg_color=00000000&color=FF8FB1&line=FF8FB1&point=FFFFFF&area_color=E84A8A" />
+    <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=hongyi-wang0108&hide_border=true&area=true&bg_color=00000000&color=E84A8A&line=E84A8A&point=333333&area_color=FFC0DD" alt="activity graph" />
+  </picture>
 </div>
 
 ## 🐍 Contribution Snake
@@ -107,5 +116,5 @@
 *Looking for Android engineer roles in Japan.*
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:26d0ce,100:1a2980&height=120&section=footer" alt="footer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:E84A8A,100:FFC0DD&height=120&section=footer" alt="footer" />
 </div>
