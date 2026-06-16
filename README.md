@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=620&color=E84A8A&lines=Android+Client+Engineer+%40+Tokyo;Kotlin+%2B+Jetpack+Compose;%E6%9D%B1%E4%BA%AC%E5%9C%A8%E4%BD%8F%E3%81%AE+Android+%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2)](https://github.com/hongyi-wang0108)
 
-<a href="https://android-engineer-portfolio-kappa.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>&emsp;
+<a href="https://android-engineer-portfolio-kappa.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-E84A8A?style=for-the-badge&logo=vercel&logoColor=white" /></a>&emsp;
 <a href="mailto:1092576787@qq.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&emsp;
 <img src="https://img.shields.io/badge/Tokyo-Japan-E84A8A?style=for-the-badge&logo=googlemaps&logoColor=white" />&emsp;
 <img src="https://komarev.com/ghpvc/?username=hongyi-wang0108&label=Views&color=E84A8A&style=for-the-badge" alt="views" />
@@ -71,22 +71,22 @@
   <br/>
   <img align="left" width="135" src="assets/wing-left.png" alt="wing" />
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=hongyi-wang0108&background=00000000&hide_border=true&stroke=FF8FB1&ring=FF8FB1&fire=FF8FB1&currStreakLabel=FF8FB1&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=DDDDDD&dates=AAAAAA" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=hongyi-wang0108&background=00000000&hide_border=true&stroke=E84A8A&ring=E84A8A&fire=E84A8A&currStreakLabel=E84A8A&currStreakNum=333333&sideNums=333333&sideLabels=555555&dates=888888" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=hongyi-wang0108&background=00000000&hide_border=true&stroke=FF8FB1&ring=FF8FB1&fire=E6A23C&currStreakLabel=FF8FB1&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=DDDDDD&dates=AAAAAA" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=hongyi-wang0108&background=00000000&hide_border=true&stroke=E84A8A&ring=E84A8A&fire=E6A23C&currStreakLabel=E84A8A&currStreakNum=333333&sideNums=333333&sideLabels=555555&dates=888888" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=hongyi-wang0108&background=00000000&hide_border=true&stroke=E84A8A&ring=E84A8A&fire=E84A8A&currStreakLabel=E84A8A" alt="streak" />
   </picture>
   <img align="right" width="135" src="assets/wing-right.png" alt="wing" />
   <br/>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=hongyi-wang0108&hide_border=true&area=true&bg_color=00000000&color=FF8FB1&line=FF8FB1&point=FFFFFF&area_color=E84A8A" />
-    <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=hongyi-wang0108&hide_border=true&area=true&bg_color=00000000&color=E84A8A&line=E84A8A&point=333333&area_color=FFC0DD" alt="activity graph" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=hongyi-wang0108&hide_border=true&area=true&bg_color=00000000&color=FF8FB1&line=FF8FB1&point=E6A23C&area_color=E84A8A" />
+    <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=hongyi-wang0108&hide_border=true&area=true&bg_color=00000000&color=E84A8A&line=E84A8A&point=E6A23C&area_color=FFC0DD" alt="activity graph" />
   </picture>
 </div>
 
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img alt="snake" src="https://raw.githubusercontent.com/hongyi-wang0108/hongyi-wang0108/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="snake" src="https://raw.githubusercontent.com/hongyi-wang0108/hongyi-wang0108/output/github-snake.svg" />
 </div>
 
 ## 📌 Featured Project
