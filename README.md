@@ -63,7 +63,9 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=hongyi-wang0108&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true" alt="stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hongyi-wang0108&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs" />
   <br/>
+  <img align="left" width="135" src="assets/wing-left.png" alt="wing" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hongyi-wang0108&theme=tokyonight&hide_border=true" alt="streak" />
+  <img align="right" width="135" src="assets/wing-right.png" alt="wing" />
   <br/>
   <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=hongyi-wang0108&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" />
 </div>
