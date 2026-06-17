@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC0DD,100:E84A8A&height=180&section=header&text=Hongyi%20Wang%20%E7%8E%8B%E6%B3%93%E6%87%BF&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Android%20Client%20Engineer%20%40%20Tokyo&descSize=18&descAlignY=64" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC0DD,100:E84A8A&height=180&section=header&text=HongYi%20Wang%20%E7%8E%8B%E6%B3%93%E6%87%BF&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Android%20Client%20Engineer%20%40%20Tokyo&descSize=18&descAlignY=64" alt="header" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=620&color=E84A8A&lines=Android+Client+Engineer+%40+Tokyo;Kotlin+%2B+Jetpack+Compose;%E6%9D%B1%E4%BA%AC%E5%9C%A8%E4%BD%8F%E3%81%AE+Android+%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2)](https://github.com/hongyi-wang0108)
 
